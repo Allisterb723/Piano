@@ -10,15 +10,15 @@ This application is not yet deployed on a server but can be run locally using th
 
 Using node package manager (npm):
 
-'''
+```
 npm install nodemon
-'''
+```
 
 Once nodemon is installed, you can run the project locally.
 
-'''
+```
 nodemon script.js
-'''
+```
 
 
 ## Application Use
