@@ -26,6 +26,7 @@ nodemon script.js
 The application, when run locally, should display something like this:
 
 ![Piano Result](Piano Website.png)
+<img src="Piano Website.png"> 
 
 For white keys use the letters S-K on the keyboard. For black keys, the first pair are E and R and the trio of black notes is Y, U, I. You can also manually click on the piano keys to make each sound.
 
